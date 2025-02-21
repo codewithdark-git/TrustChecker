@@ -1,4 +1,4 @@
-# WebGuard AI 🛡️
+# TrustChecker 🛡️
 
 An AI-powered website content verification system that analyzes web pages and determines if they match their expected content description.
 
@@ -18,8 +18,8 @@ An AI-powered website content verification system that analyzes web pages and de
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/webguard-ai.git
-cd webguard-ai
+git clone https://github.com/codewithdark-git/TrustChecker.git
+cd TrustChecker
 ```
 
 2. Install dependencies:
